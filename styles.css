@@ -1,4 +1,14 @@
-p {
-	color: blue;
+.body {
+	display: table;
+	width: 500px;
+	height: 500px;
+	text-align: center;
+	color: white;
+	background: navy;
+}
 
+.para{
+	display: table-cell;
+	height: 20px;
+	vertical-align: middle;	
 }
